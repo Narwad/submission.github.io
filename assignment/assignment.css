@@ -1,0 +1,215 @@
+*{
+    background-color: black;
+    color: white;
+    border: border-box;
+}
+
+.navbar{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-menu{
+    margin-top: 30px;
+}
+
+.box{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 60px;
+    justify-content: space-between;
+}
+
+.box :hover{
+    background-color: rgb(12, 51, 21);
+    color: white;
+}
+
+.box11{
+    background-color: green;
+    color: white;
+    border: transparent;
+    border-radius: 5px;
+}
+
+.nav-logo{
+    height: 50px;
+    width: 100px;
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.box3{
+    margin-left: 20px;
+}
+
+.box4{
+    margin-bottom: 20px;
+}
+
+/**--------------navbar close------------**/
+.news h1{
+    font-size: 60px;
+}
+
+.news button {
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
+
+
+.blocks{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.blocks i {
+    height: 30px;
+    width: 30px;
+    background-color: aqua;
+    border-radius: 50%;
+}
+
+.box14{
+    border: 2px solid wheat;
+    border-radius: 5px;
+    padding: 20px; 
+}
+
+.box15{
+    border: 2px solid wheat;
+    border-radius: 5px;
+    padding: 20px; 
+}
+
+.box16{
+    border: 2px solid wheat;
+    border-radius: 5px;
+    padding: 20px; 
+}
+
+
+.blog{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box17 {
+    border: 2px solid wheat;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.box18 {
+    border: 2px solid wheat;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.box19 {
+    border: 2px solid wheat;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.blog i {
+    height: 30px;
+    width: 30px;
+    background-color: aqua;
+    border-radius: 50%;
+}
+
+.ecosystem{
+    margin-left: 60px;
+    justify-content: space-between;
+}
+
+.box20{
+    height: 150x;
+    width: 50%;
+    margin-left: 0px;
+    justify-items: left;
+    border: 2px solid wheat;
+    padding: 50px;
+    border-radius: 10px;
+    
+}
+
+.box20 img{
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+}
+
+.price{
+    align-items: center ;
+    justify-content: space-evenly;
+}
+
+.box20 button{
+    height: 30px;
+    width: 70%;
+    background-color: rgb(65, 211, 121);
+    color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.box21{
+    height: 150x;
+    width: 50%;
+    border: 2px solid wheat;
+    margin-left: 0;
+    margin-top: 30px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.box21 img{
+    height: 70px;
+    width: 70px;
+    margin-left: 20px;
+}
+
+.box21 button{
+    height: 30px;
+    width: 75%;
+    background-color: rgb(65, 211, 121);
+    color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+/**-----------------footer--------------**/
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.logo img{
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+
+
